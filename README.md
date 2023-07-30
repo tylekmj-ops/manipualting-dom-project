@@ -9,5 +9,3 @@ Modify _script.js_ to enable the following functionality so that:
 Extra Credit: Edit _index.html_ and _script.js_ to add a "Do nothing" button and counters with the functionality shown in the video.
 
 [Extra Credit Demo](https://drive.google.com/file/d/1gLIdnHSvQjmY7zzNiZh3Bf80cOg6vs1I/view?usp=sharing)
-
-Extra Credit 2: Randomly select the text/image that is added each time the buttons are pressed.
