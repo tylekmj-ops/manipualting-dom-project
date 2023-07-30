@@ -1,5 +1,3 @@
-**Please add the names of everyone in your group to the top of this readme.**
-
 # Project: Modifying the DOM
 
 Modify _script.js_ to enable the following functionality so that:
